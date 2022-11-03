@@ -1,5 +1,11 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif">
+</div>
 
+<h1 align="center"> 
+  Hello, there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!--
 **jmj0502/jmj0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
