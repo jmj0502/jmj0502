@@ -1,13 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif">
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" title="Doing the code" alt="bear coding">
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jorge-martin-juarez-084a1418b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" title="LinkedIn Profile" alt="linkedin-badge"/>
   </a>
   <a href="https://gitlab.com/jmj0502">
-    <img src="https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white&style=for-the-badge" title="GitLab Profile" alt="gitlab-badge"/>
   </a>
 </div>
 
@@ -17,7 +17,7 @@
 
 <h1 align="center"> 
   Hello, there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave-hand"/>
 </h1>
 
 Welcome to my profile! My name is Jorge Martin Juarez, I'm a full stack developer, who spent most of its time working on backend tasks and trying to build innovativative solutions on its speare time :v:
@@ -33,6 +33,7 @@ If you want to know more about me, feel free to contact me via email!
 ## 🛠️ Languages and tools
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40px" height="40px"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40px" height="40px"/>
 </div>
 <!--
 **jmj0502/jmj0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
