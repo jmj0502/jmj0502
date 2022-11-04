@@ -57,6 +57,13 @@ If you want to know more about me, feel free to contact me via email!
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40px" height="40px" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40px" height="40px" />
 </div>
+
+## 🔥 My stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jmj0502&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmj0502&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmj0502&count_private=true&theme=dark)
 <!--
 **jmj0502/jmj0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
