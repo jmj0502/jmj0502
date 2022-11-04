@@ -64,6 +64,9 @@ If you want to know more about me, feel free to contact me via email!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmj0502&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmj0502&count_private=true&theme=dark)
+
+## ⭐Popular repositories
+* [L#](https://github.com/jmj0502/LSharp): A superset of the Lox programming language written in C# (.NET 6). The project is a tree-walk interpreter and it's in a pretty alpha state; the project is almost complete (in terms of features), since L# aims to be a small scripting language used to solve trivial tasks.
 <!--
 **jmj0502/jmj0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
