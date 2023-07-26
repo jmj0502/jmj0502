@@ -20,13 +20,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave-hand"/>
 </h1>
 
-Welcome to my profile! My name is Jorge Martin Juarez, I'm a full stack developer, who spent most of its time working on backend tasks and trying to build innovativative solutions on its speare time :v:
+Welcome to my profile! My name is Jorge Martin Juarez, and I am an experienced full-stack developer with a strong focus on backend development. In my spare time, I enjoy exploring innovative solutions and experimenting with new technologies.
 
-I'm passionate about technology as a whole, the IT world is evolving everyday and the idea of being part of such evolution process is more than amazing to me. I'm a very proactive person, who's willing to adapt and learn as much as needed, in order to achieve a personal or professional goal.
+I am deeply passionate about technology, and I find the fast-paced and ever-changing world of IT to be incredibly exciting. As a highly proactive individual, I am always eager to learn and adapt to new challenges in order to achieve my personal and professional goals.
 
-In recent times I've caught a great interests on low-level development, maybe because I've always been curious about how things work under the surface. I'm also really passionate about programming language design and implementation (I really hope that someday I'm able to make a career out such passion), since such topic allow me to free my creativity and to grow as a problem solver.
+Recently, I have developed a keen interest in low-level development, driven by my curiosity about how systems work beneath the surface. Additionally, I am passionate about programming language design and implementation, as it allows me to unleash my creativity and hone my problem-solving skills. In fact, I hope to someday make a career out of my passion for language design and implementation.
 
-I consider myself a team player, since I really love working with a team. I truly consider that team work is one of the best ways to learn and teach concepts related to technology in general; since the different approaches/ideas exposed by each member of a team can be crutial to further develop one skills and to achieve a scalable solution to a certain problem.
+As a team player, I thrive on collaboration and enjoy working with others to develop scalable and efficient solutions. I believe that teamwork is one of the best ways to learn and teach concepts related to technology, as it provides a platform for sharing ideas and approaches. By collaborating with others, I have been able to develop my skills and gain a deeper understanding of the technology industry..
 
 If you want to know more about me, feel free to contact me via email!
 
