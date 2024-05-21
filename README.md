@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jorge-martin-juarez-084a1418b/">
+  <a href="https://www.linkedin.com/in/jorge-martin-juarez-machado-084a1418b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" title="LinkedIn Profile" alt="linkedin-badge"/>
   </a>
   <a href="https://gitlab.com/jmj0502">
